@@ -18,7 +18,7 @@
 - - -
 
 ### :technologist: About Me:
-I am a Full Stack Developer :triumph: from Colorado, USA.
+I am a Backend Developer :triumph: from Louisiana, USA.
   - :telescope: I am currently on the job hunt!
   - :seedling: Re-learning Python and TypeScript.
   - 🎮 100% Purebred Gamer. Most of my free time goes to either coding or gaming.
